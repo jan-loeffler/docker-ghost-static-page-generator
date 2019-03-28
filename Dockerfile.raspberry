@@ -1,2 +1,2 @@
-FROM amd64/node
+FROM arm32v7/node
 RUN npm install -g ghost-static-site-generator
