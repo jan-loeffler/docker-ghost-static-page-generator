@@ -1,0 +1,1 @@
+# docker-ghost-static-page-generator
